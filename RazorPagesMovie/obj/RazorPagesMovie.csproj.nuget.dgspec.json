@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jkwashu/csci340lab8/csci340lab8/RazorPagesMovie/RazorPagesMovie.csproj": {}
+    "C:\\Users\\Jkwas\\CSCI-340\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "/Users/jkwashu/csci340lab8/csci340lab8/RazorPagesMovie/RazorPagesMovie.csproj": {
+    "C:\\Users\\Jkwas\\CSCI-340\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jkwashu/csci340lab8/csci340lab8/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Jkwas\\CSCI-340\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "/Users/jkwashu/csci340lab8/csci340lab8/RazorPagesMovie/RazorPagesMovie.csproj",
-        "packagesPath": "/Users/jkwashu/.nuget/packages/",
-        "outputPath": "/Users/jkwashu/csci340lab8/csci340lab8/RazorPagesMovie/obj/",
+        "projectPath": "C:\\Users\\Jkwas\\CSCI-340\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\Jkwas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jkwas\\CSCI-340\\csci340lab8\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jkwashu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Jkwas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -42,25 +42,25 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.SQLite": {
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             }
           },
           "imports": [
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/jkwashu/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
